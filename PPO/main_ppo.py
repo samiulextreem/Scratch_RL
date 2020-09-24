@@ -1,7 +1,7 @@
 
 ##only works with cartpole and lunarlander env
 ##olny able to solve cartpole can not solve lunarlander
-##Some time throws error when back propagation saying NaN detected(exploding grad)
+##Some time throws error when back propagation saying NaN detected(exploding grad ??)
 
 
 
